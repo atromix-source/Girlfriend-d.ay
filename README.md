@@ -1,5 +1,3 @@
-# Girlfriend-d.ay
-Girlfriend day 
 <!DOCTYPE html>
 <html lang="en">
 <head>
